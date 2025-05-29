@@ -1,7 +1,3 @@
-<details>
-<summary>Haz clic para ver <code>index.js</code></summary>
-<details>
-<summary>Haz clic para ver <code>index.js</code></summary>
 import { useState } from 'react';
 import { useRouter } from 'next/router';
 import translations from '../locales';
